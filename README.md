@@ -2,4 +2,4 @@
 
 demo
 
-kron
+krono
